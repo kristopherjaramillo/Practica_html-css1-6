@@ -1,0 +1,15 @@
+body{
+    background-image: url(../Imagenes/redes.webp);
+}
+h1{color: brown ; text-align: center; border: 20px outset red }
+h2{color: white; text-align: center; background-color: black; border: outset lightpink;}
+h3{color: lightcyan; text-align: center; background-color: navy; border: solid; padding: 20px;}
+img{border: 20px outset brown;}
+div{text-align: center;}
+p{color: black; background-color: blue;}
+li{border: brown outset; background-color: aqua; }
+
+
+
+
+
